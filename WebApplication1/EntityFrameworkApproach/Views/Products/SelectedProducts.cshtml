@@ -1,0 +1,20 @@
+﻿@model IEnumerable<DAL.Models.Product>
+
+@{
+    ViewBag.Title = "SelectedProducts";
+}
+
+<h2>SelectedProducts</h2>
+
+@using (Html.BeginForm())
+{
+    <div class="row">
+        <div class="col-md-3">
+            @Html.EditorForModel()
+
+        </div>
+    </div>
+    <input type="submit" value="Submit" class="btn btn-success" />
+}
+
+

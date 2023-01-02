@@ -1,0 +1,8 @@
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\EmployeeApp\bin\Debug\EmployeeApp.exe
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\EmployeeApp\bin\Debug\EmployeeApp.pdb
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\EmployeeApp\obj\Debug\EmployeeApp.csproj.AssemblyReference.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\EmployeeApp\obj\Debug\EmployeeApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\EmployeeApp\obj\Debug\EmployeeApp.csproj.CoreCompileInputs.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\EmployeeApp\obj\Debug\EmployeeApp.exe
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\EmployeeApp\obj\Debug\EmployeeApp.pdb

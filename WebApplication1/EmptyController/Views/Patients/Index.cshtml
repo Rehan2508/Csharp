@@ -1,0 +1,51 @@
+﻿
+@model IEnumerable<EmptyController.Models.Patient>
+
+
+<p>
+    @Html.ActionLink("Create New","Create")
+</p>
+<table class="table table-striped">
+    <tr>
+        <th>@Html.DisplayNameFor(e => e.name)</th>
+        <th>Ailment</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(e => item.name)</td>
+            <td>@Html.DisplayFor(e => item.ailment)</td>
+            <td>@Html.ActionLink("Edit", "Edit", new { id = @item.id }, new { @class = "btn btn-primary" })</td>
+            <td>@Html.ActionLink("Delete", "Delete", new { id = @item.id }, new { @class = "btn btn-danger" })</td>
+        </tr>
+    }
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+
+@ViewBag.Message<br />
+@ViewData["msg"]<br />
+@TempData["display"]<br />
+@Session["show"]
+
+<p>My First MVC Page</p>
+
+        -->

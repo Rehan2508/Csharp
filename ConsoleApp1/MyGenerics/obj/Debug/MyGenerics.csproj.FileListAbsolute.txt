@@ -1,0 +1,8 @@
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\MyGenerics\bin\Debug\MyGenerics.exe.config
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\MyGenerics\bin\Debug\MyGenerics.exe
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\MyGenerics\bin\Debug\MyGenerics.pdb
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\MyGenerics\obj\Debug\MyGenerics.csproj.AssemblyReference.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\MyGenerics\obj\Debug\MyGenerics.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\MyGenerics\obj\Debug\MyGenerics.csproj.CoreCompileInputs.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\MyGenerics\obj\Debug\MyGenerics.exe
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\MyGenerics\obj\Debug\MyGenerics.pdb

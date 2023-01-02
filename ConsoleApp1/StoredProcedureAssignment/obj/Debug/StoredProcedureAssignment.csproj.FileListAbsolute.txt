@@ -1,0 +1,12 @@
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\StoredProcedureAssignment\bin\Debug\StoredProcedureAssignment.exe.config
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\StoredProcedureAssignment\bin\Debug\StoredProcedureAssignment.exe
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\StoredProcedureAssignment\bin\Debug\StoredProcedureAssignment.pdb
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\StoredProcedureAssignment\bin\Debug\AssignmentDAL.dll
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\StoredProcedureAssignment\bin\Debug\AssignmentDAL.pdb
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\StoredProcedureAssignment\bin\Debug\AssignmentDAL.dll.config
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\StoredProcedureAssignment\obj\Debug\StoredProcedureAssignment.csproj.AssemblyReference.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\StoredProcedureAssignment\obj\Debug\StoredProcedureAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\StoredProcedureAssignment\obj\Debug\StoredProcedureAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\StoredProcedureAssignment\obj\Debug\StoredProcedureAssignment.csproj.CopyComplete
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\StoredProcedureAssignment\obj\Debug\StoredProcedureAssignment.exe
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\StoredProcedureAssignment\obj\Debug\StoredProcedureAssignment.pdb

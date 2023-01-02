@@ -1,0 +1,23 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>GetPatient</title>
+</head>
+<body>
+    <div>
+        @ViewBag.message
+
+        @ViewBag.Message<br />
+        @ViewData["msg"]<br />
+        @TempData["display"]<br />
+        @Session["show"]
+    </div>
+</body>
+</html>

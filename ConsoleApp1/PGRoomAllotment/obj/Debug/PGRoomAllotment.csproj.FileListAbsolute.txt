@@ -1,0 +1,12 @@
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\PGRoomAllotment\bin\Debug\PGRoomAllotment.exe.config
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\PGRoomAllotment\bin\Debug\PGRoomAllotment.exe
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\PGRoomAllotment\bin\Debug\PGRoomAllotment.pdb
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\PGRoomAllotment\bin\Debug\PGRoomAllotmentDAL.dll
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\PGRoomAllotment\bin\Debug\PGRoomAllotmentDAL.pdb
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\PGRoomAllotment\bin\Debug\PGRoomAllotmentDAL.dll.config
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\PGRoomAllotment\obj\Debug\PGRoomAllotment.csproj.AssemblyReference.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\PGRoomAllotment\obj\Debug\PGRoomAllotment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\PGRoomAllotment\obj\Debug\PGRoomAllotment.csproj.CoreCompileInputs.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\PGRoomAllotment\obj\Debug\PGRoomAllotment.csproj.CopyComplete
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\PGRoomAllotment\obj\Debug\PGRoomAllotment.exe
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\PGRoomAllotment\obj\Debug\PGRoomAllotment.pdb

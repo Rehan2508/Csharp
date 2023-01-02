@@ -1,0 +1,8 @@
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\BankingSystem\bin\Debug\BankingSystem.exe.config
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\BankingSystem\bin\Debug\BankingSystem.exe
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\BankingSystem\bin\Debug\BankingSystem.pdb
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\BankingSystem\obj\Debug\BankingSystem.csproj.AssemblyReference.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\BankingSystem\obj\Debug\BankingSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\BankingSystem\obj\Debug\BankingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\BankingSystem\obj\Debug\BankingSystem.exe
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\BankingSystem\obj\Debug\BankingSystem.pdb

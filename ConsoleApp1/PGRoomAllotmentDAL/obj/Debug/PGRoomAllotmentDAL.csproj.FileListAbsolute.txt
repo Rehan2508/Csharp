@@ -1,0 +1,7 @@
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\PGRoomAllotmentDAL\bin\Debug\PGRoomAllotmentDAL.dll.config
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\PGRoomAllotmentDAL\bin\Debug\PGRoomAllotmentDAL.dll
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\PGRoomAllotmentDAL\bin\Debug\PGRoomAllotmentDAL.pdb
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\PGRoomAllotmentDAL\obj\Debug\PGRoomAllotmentDAL.csproj.AssemblyReference.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\PGRoomAllotmentDAL\obj\Debug\PGRoomAllotmentDAL.csproj.CoreCompileInputs.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\PGRoomAllotmentDAL\obj\Debug\PGRoomAllotmentDAL.dll
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\PGRoomAllotmentDAL\obj\Debug\PGRoomAllotmentDAL.pdb

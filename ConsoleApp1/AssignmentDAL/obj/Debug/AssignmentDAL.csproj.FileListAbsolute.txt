@@ -1,0 +1,7 @@
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\AssignmentDAL\bin\Debug\AssignmentDAL.dll.config
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\AssignmentDAL\bin\Debug\AssignmentDAL.dll
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\AssignmentDAL\bin\Debug\AssignmentDAL.pdb
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\AssignmentDAL\obj\Debug\AssignmentDAL.csproj.AssemblyReference.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\AssignmentDAL\obj\Debug\AssignmentDAL.csproj.CoreCompileInputs.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\AssignmentDAL\obj\Debug\AssignmentDAL.dll
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\AssignmentDAL\obj\Debug\AssignmentDAL.pdb

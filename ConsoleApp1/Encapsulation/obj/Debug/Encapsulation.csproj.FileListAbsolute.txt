@@ -1,0 +1,8 @@
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\Encapsulation\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\Encapsulation\obj\Debug\Encapsulation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\Encapsulation\obj\Debug\Encapsulation.pdb

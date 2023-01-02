@@ -1,0 +1,8 @@
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\MyCollection\bin\Debug\MyCollection.exe.config
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\MyCollection\bin\Debug\MyCollection.exe
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\MyCollection\bin\Debug\MyCollection.pdb
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\MyCollection\obj\Debug\MyCollection.csproj.AssemblyReference.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\MyCollection\obj\Debug\MyCollection.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\MyCollection\obj\Debug\MyCollection.csproj.CoreCompileInputs.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\MyCollection\obj\Debug\MyCollection.exe
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\MyCollection\obj\Debug\MyCollection.pdb

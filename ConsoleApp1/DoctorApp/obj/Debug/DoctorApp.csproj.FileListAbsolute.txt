@@ -1,0 +1,8 @@
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\DoctorApp\bin\Debug\DoctorApp.exe.config
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\DoctorApp\bin\Debug\DoctorApp.exe
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\DoctorApp\bin\Debug\DoctorApp.pdb
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\DoctorApp\obj\Debug\DoctorApp.csproj.AssemblyReference.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\DoctorApp\obj\Debug\DoctorApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\DoctorApp\obj\Debug\DoctorApp.csproj.CoreCompileInputs.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\DoctorApp\obj\Debug\DoctorApp.exe
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\DoctorApp\obj\Debug\DoctorApp.pdb

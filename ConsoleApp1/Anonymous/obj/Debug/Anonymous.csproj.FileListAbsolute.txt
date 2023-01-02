@@ -1,0 +1,8 @@
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\Anonymous\bin\Debug\Anonymous.exe.config
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\Anonymous\bin\Debug\Anonymous.exe
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\Anonymous\bin\Debug\Anonymous.pdb
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\Anonymous\obj\Debug\Anonymous.csproj.AssemblyReference.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\Anonymous\obj\Debug\Anonymous.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\Anonymous\obj\Debug\Anonymous.csproj.CoreCompileInputs.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\Anonymous\obj\Debug\Anonymous.exe
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\Anonymous\obj\Debug\Anonymous.pdb

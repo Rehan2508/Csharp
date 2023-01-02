@@ -1,0 +1,8 @@
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\Inheritance\obj\Debug\Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\Inheritance\obj\Debug\Inheritance.pdb

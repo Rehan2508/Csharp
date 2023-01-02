@@ -1,0 +1,12 @@
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\TestApp1\bin\Debug\TestApp1.exe.config
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\TestApp1\bin\Debug\TestApp1.exe
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\TestApp1\bin\Debug\TestApp1.pdb
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\TestApp1\bin\Debug\ConsoleApp2.exe
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\TestApp1\bin\Debug\ConsoleApp2.pdb
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\TestApp1\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\TestApp1\obj\Debug\TestApp1.csproj.AssemblyReference.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\TestApp1\obj\Debug\TestApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\TestApp1\obj\Debug\TestApp1.csproj.CoreCompileInputs.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\TestApp1\obj\Debug\TestApp1.csproj.CopyComplete
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\TestApp1\obj\Debug\TestApp1.exe
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\TestApp1\obj\Debug\TestApp1.pdb

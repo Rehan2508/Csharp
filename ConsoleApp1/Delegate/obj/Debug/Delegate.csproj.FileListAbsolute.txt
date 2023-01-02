@@ -1,0 +1,8 @@
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\Delegate\bin\Debug\Delegate.exe.config
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\Delegate\bin\Debug\Delegate.exe
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\Delegate\bin\Debug\Delegate.pdb
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\Delegate\obj\Debug\Delegate.csproj.AssemblyReference.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\Delegate\obj\Debug\Delegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\Delegate\obj\Debug\Delegate.exe
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\Delegate\obj\Debug\Delegate.pdb

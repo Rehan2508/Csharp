@@ -1,0 +1,7 @@
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\CRUD\bin\Debug\CRUD.dll.config
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\CRUD\bin\Debug\CRUD.dll
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\CRUD\bin\Debug\CRUD.pdb
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\CRUD\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\CRUD\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\CRUD\obj\Debug\CRUD.dll
+C:\Users\Rehan.Dilkash\Desktop\Csharp\ConsoleApp1\CRUD\obj\Debug\CRUD.pdb
